@@ -1,0 +1,3 @@
+This app requires hand gestures enable thru settings. 
+
+Ensure there is enough lighting and a table to use with.

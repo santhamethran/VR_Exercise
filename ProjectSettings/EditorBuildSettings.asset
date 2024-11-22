@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Project/_Intro.unity
+    guid: b6d8b8d8dd2054847b073d36d88ea67f
+  - enabled: 1
+    path: Assets/Scenes/Project/_Main.unity
+    guid: e4870cee5dad84cb48c6635dfc939fe1
+  - enabled: 1
+    path: Assets/Scenes/Project/Fist Stretch.unity
+    guid: eaab945b4cbf5472cbf4bdc04c3e622a
+  - enabled: 1
+    path: Assets/Scenes/Project/'O' Pose.unity
+    guid: e061734b418db48949a5b5f81a9b4afc
+  - enabled: 1
+    path: Assets/Scenes/Project/Knuckle Bend.unity
+    guid: acfd3f2552ef0d74094fcec4433e3779
+  - enabled: 1
+    path: Assets/Scenes/Project/Intrinsic Flexion.unity
+    guid: 4e06c56efe4e6384c8f392249a759978
+  - enabled: 1
+    path: Assets/Scenes/Project/Thumb Extension.unity
+    guid: 75048f942d1514b4a91b3eb153333a75
+  - enabled: 1
+    path: Assets/Scenes/Project/Palm-up & Palm-down.unity
+    guid: 0800221467d0b45459c303eeba54215c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 18309352c5156424cbabe3999b441e43, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2c9c0f79516ca441eb1a4c22e24a242e, type: 2}

@@ -1,0 +1,10 @@
+
+“ Please do this 10 times with the left hand and then switch to the right hand”
+
+“Keep your hand in open palm up position, a ball drops slowly, on your palm”
+
+“Close your palm and form a fist for 5 seconds”
+
+“After holding fist for 5 seconds the ball changes its color to red, open your fist"
+
+"The ball disappears and new ball drops slowly”

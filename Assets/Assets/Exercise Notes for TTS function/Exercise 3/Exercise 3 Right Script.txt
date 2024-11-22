@@ -1,0 +1,9 @@
+Please perform 5 times with the right hand then switch hand
+
+A disk like shape with a circle in the center will be floating near the hand.
+
+Touch the inner circle with the tip of the finger and hold the posture for 5 seconds.
+
+The circle changes color and grows to fill the entire disk gradually in 5 second.
+
+After the circle grows to the edge, an animation will confirm completion of the step.

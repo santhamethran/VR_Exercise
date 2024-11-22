@@ -1,0 +1,9 @@
+“ Please perform with the left hand 5 times then switch hand”
+
+“Hold your palm up to match the ghosted palm in front of you for starting position.”
+
+“As the initial position is recognized, a set of small balls appear moving in a circular motion on top of the hand.”
+
+“Try to hit the yellow balls over the thumb by lifting the thumb slowly. Do not hit the blue balls.”
+
+“Lower the thumb to avoid hitting the blue balls.”

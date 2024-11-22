@@ -1,0 +1,9 @@
+Please perform 5 times with the right hand and with each finger then switch hand.
+
+Lift the finger and hold the position for 2 seconds.
+
+The Ball changes color to Red after 2 seconds and disappears.
+
+The ball next appears on a different finger.
+
+Repeat the same exercise with the other fingers.

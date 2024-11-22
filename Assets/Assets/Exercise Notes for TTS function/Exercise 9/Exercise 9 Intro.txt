@@ -1,0 +1,15 @@
+You have reached the last exercise called Finger Walk.
+
+
+
+Rest your hand on a flat surface, such as a tabletop
+
+Rest your palm facing down.
+
+Move your thumb away from your fingers.
+
+Start with your index finger.
+
+Move it up and towards your thumb.
+
+Next move your middle ring and small fingers one at a time up and towards your thumb.

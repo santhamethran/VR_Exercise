@@ -1,0 +1,12 @@
+
+“ Please do this 10 times for this right hand”
+
+“Hold your palm up to match the ghosted palm in front of you for starting position.”
+
+“A ball appears as the starting position is recognized. The Ball drops slowly, on the palm.”
+
+“Ball rests on the palm for few seconds. Disappears after that, unless palm is closed.”
+
+“Hold the posture for 5 seconds. After you open the palm, the ball would have changed color to red.”
+
+“The ball disappears and another ball appears at the started position.
